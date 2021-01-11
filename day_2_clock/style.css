@@ -51,8 +51,8 @@ body {
 
 .hour-hand{
   width:33%;
-  height:6px;
-  background-color: white;
+  height:5px;
+  background-color: rgb(253, 239, 201);
   position: absolute;
   top:50%;
   margin-left: 20%;
@@ -64,8 +64,8 @@ body {
 
 .min-hand{
   width:43%;
-  height:6px;
-  background-color: rgb(152, 152, 152);
+  height:4px;
+  background-color: rgb(152, 145, 124);
   position: absolute;
   top:50%;
   margin-left: 10%;
@@ -77,8 +77,8 @@ body {
 
 .second-hand{
   width:53%;
-  height:6px;
-  background-color: black;
+  height:3px;
+  background-color: rgb(27, 22, 8);
   position: absolute;
   top:50%;
   transform-origin: 95%;
